@@ -1,1 +1,4 @@
-# Soil-Classification
+# Crop Suggestion Based on Soil
+
+
+India is Agriculture based Country. Soil is one main characteristic when it comes to Crop Production. The Crop if grown on right Soil improves productivity. For improving uses cases of soil prediction we are working building on model which helps in identifying soil classes. For achieve this purpose we have a 3 phase model, Dataset, Transfer Learning Model and Ui and Backend. For training our model we have been using methods like Custom CNN, VGG, Densenet. This project is an end-end project for farmers for improving productivity. CNNs are primarily used to solve difficult image-driven pattern recognition tasks and with their precise yet simple architecture, offer a simpliﬁed method of getting started with ANN. Previous Researches have been done Text data but we have tried to create a end-end system which can be used to detect class of soil and tell crop to grow.
